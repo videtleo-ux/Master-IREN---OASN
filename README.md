@@ -82,5 +82,5 @@ Les fichiers `report_summary.csv` dans chaque dossier contiennent les KPIs agré
 
 ```
 Videt, L. (2026). Rationalité Stratégique des LLM en Environnement à Information Imparfaite.
-Master IREN — Université Paris-Saclay / Paris-Dauphine / Telecom Paris / École Polytechnique.
+Master IREN. 
 ```
