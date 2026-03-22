@@ -1,0 +1,7 @@
+litellm
+pandas
+python-dotenv
+matplotlib
+statsmodels
+tabulate
+scipy

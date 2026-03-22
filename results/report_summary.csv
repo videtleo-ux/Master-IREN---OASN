@@ -1,0 +1,5 @@
+Scenario_ID,Label,n_total,n_clean,n_fallback,bluff_rate_x,value_bet_x,bet_rate_x,call_rate_j,call_rate_q,call_rate_k,x_win_rate,x_total_gain,y_total_gain
+1,S1 — mistral-small-latest(X) vs gpt-5.4-mini(Y) | sans hist.,500,500,0,0.9944,1.0000,0.9980,0.0000,1.0000,1.0000,0.4720,-218.0000,218.0000
+2,S2 — mistral-small-latest(X) vs gpt-5.4-mini(Y) | hist=20,500,500,0,0.9939,1.0000,0.9960,0.0452,0.8618,1.0000,0.5200,-150.0000,150.0000
+3,S3 — gpt-5.4-mini(X) vs mistral-small-latest(Y) | sans hist.,500,500,0,0.8820,1.0000,0.9440,0.9934,1.0000,1.0000,0.4660,-49.0000,49.0000
+4,S4 — gpt-5.4-mini(X) vs mistral-small-latest(Y) | hist=20,500,500,0,0.6415,1.0000,0.8340,0.9750,0.9925,1.0000,0.5140,80.0000,-80.0000

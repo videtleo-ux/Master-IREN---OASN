@@ -1,0 +1,9 @@
+Scenario_ID,Label,n_total,n_clean,n_fallback,bluff_rate_x,value_bet_x,bet_rate_x,call_rate_j,call_rate_q,call_rate_k,x_win_rate,x_total_gain,y_total_gain
+1,S1 — mistral-small-latest[rationnel](X) vs gpt-5.4-mini[rationnel](Y),500,500,0,0.9123,0.9691,0.9560,0.0000,0.9870,1.0000,0.4740,-198.0000,198.0000
+2,S2 — mistral-small-latest[prudent](X) vs gpt-5.4-mini[prudent](Y),500,500,0,0.6461,0.6968,0.7460,0.0000,0.6780,1.0000,0.5200,-113.0000,113.0000
+3,S3 — gpt-5.4-mini[rationnel](X) vs mistral-small-latest[rationnel](Y),500,500,0,0.6622,1.0000,0.8900,0.7841,1.0000,1.0000,0.5480,109.0000,-109.0000
+4,S4 — gpt-5.4-mini[prudent](X) vs mistral-small-latest[prudent](Y),500,500,0,0.0061,0.6121,0.3080,0.3412,0.9574,1.0000,0.5020,54.0000,-54.0000
+5,S5 — mistral-small-latest[rationnel](X) vs gpt-5.4-mini[prudent](Y),500,500,0,0.9333,0.9682,0.9660,0.0000,0.7724,1.0000,0.5060,-172.0000,172.0000
+6,S6 — mistral-small-latest[prudent](X) vs gpt-5.4-mini[rationnel](Y),500,500,0,0.6590,0.6049,0.7160,0.0000,0.9837,1.0000,0.4980,-133.0000,133.0000
+7,S7 — gpt-5.4-mini[rationnel](X) vs mistral-small-latest[prudent](Y),500,500,0,0.6685,1.0000,0.8720,0.3647,0.9055,0.9928,0.5020,-57.0000,57.0000
+8,S8 — gpt-5.4-mini[prudent](X) vs mistral-small-latest[rationnel](Y),500,500,0,0.0000,0.6988,0.3260,0.7935,0.9808,1.0000,0.5320,137.0000,-137.0000

@@ -1,0 +1,4 @@
+Scenario_ID,Label,n_total,n_clean,n_fallback,bluff_rate_x,value_bet_x,bet_rate_x,call_rate_j,call_rate_q,call_rate_k,x_win_rate,x_total_gain,y_total_gain
+1,S1 — gpt-5.4-mini(X) vs gpt-5.4-mini(Y) | sans hist.,500,500,0,0.6089,1.0000,0.8260,0.0000,0.9930,1.0000,0.5120,-70.0000,70.0000
+2,S2 — gpt-5.4-mini(X) vs gpt-5.4-mini(Y) | hist=20,500,500,0,0.7627,1.0000,0.8920,0.0699,0.8542,1.0000,0.4760,-158.0000,158.0000
+3,S3 — gpt-5.4-mini(X) vs gpt-5.4-mini(Y) | hist=100,500,500,0,0.9207,1.0000,0.9680,0.3464,0.9068,0.9931,0.5380,-43.0000,43.0000
