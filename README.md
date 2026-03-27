@@ -81,6 +81,6 @@ Les fichiers `report_summary.csv` dans chaque dossier contiennent les KPIs agré
 ## Citation
 
 ```
-Videt, L. (2026). Rationalité Stratégique des LLM en Environnement à Information Imparfaite.
-Master IREN. 
+Videt, L., et Devillers Guendouze, S. (2026). Rationalité stratégique des LLM en environnement à information imparfaite.    
+Master IREN.
 ```
