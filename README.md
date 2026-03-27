@@ -1,6 +1,6 @@
-# Rationalité Stratégique des LLMs en Environnement à Information Imparfaite
+# Rationalité stratégique des LLMs en environnement à information imparfaite
 
-Code et données associés à l'article *"Rationalité Stratégique des LLM en Environnement à Information Imparfaite"* (Videt, 2026, Master IREN).
+Code et données associés à l'article *"Rationalité stratégique des LLM en environnement à information imparfaite"* (Videt, 2026, Master IREN).
 
 ## Structure du dépôt
 
